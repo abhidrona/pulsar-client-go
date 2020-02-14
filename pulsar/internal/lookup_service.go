@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/pb"
+	"github.com/abhidrona/pulsar-client-go/pulsar/internal/pb"
 	"github.com/golang/protobuf/proto"
 
 	log "github.com/sirupsen/logrus"

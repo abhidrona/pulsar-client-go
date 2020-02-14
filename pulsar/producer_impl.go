@@ -20,7 +20,7 @@ package pulsar
 import (
 	"context"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/abhidrona/pulsar-client-go/pulsar/internal"
 )
 
 type producer struct {

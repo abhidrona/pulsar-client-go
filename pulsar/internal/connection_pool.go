@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
+	"github.com/abhidrona/pulsar-client-go/pulsar/internal/auth"
 
 	log "github.com/sirupsen/logrus"
 )

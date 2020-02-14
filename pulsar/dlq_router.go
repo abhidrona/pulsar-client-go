@@ -22,7 +22,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/abhidrona/pulsar-client-go/pulsar/internal"
 	log "github.com/sirupsen/logrus"
 )
 
