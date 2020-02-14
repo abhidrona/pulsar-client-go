@@ -1,4 +1,4 @@
-module github.com/apache/pulsar-client-go
+module github.com/abhidrona/pulsar-client-go
 
 go 1.12
 
